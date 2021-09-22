@@ -27,8 +27,8 @@ L.tileLayer(
 ).addTo(map);
 
 var ISSIcon = L.icon({
-    iconUrl: 'satellite.svg',
-    iconSize: [40, 40],
+    iconUrl: 'enterprise3a.gif',
+    iconSize: [32, 32],
     iconAnchor: [25, 15],
     popupAnchor: [50, 25],
 });
